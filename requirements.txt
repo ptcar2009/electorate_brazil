@@ -1,2 +1,4 @@
 scrapy
 requests
+pandas
+db-sqlite3
